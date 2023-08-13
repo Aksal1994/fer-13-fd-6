@@ -1,0 +1,39 @@
+.container {
+    width: 100%;
+    height: auto;
+    background: none;
+    display: flex;  
+}
+
+.navbar {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin: 50px;
+    height: 300px;
+    width: 20%;
+    background-color:#fff;
+    color: #000000;
+    border: 2px solid rgb(203, 202, 202);
+    border-radius: 10px;   
+}
+
+.text {
+    margin: 20px; 
+    padding: 10px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.keterangan{
+    position:relative
+    width: 65%;
+    float: left;
+    margin: 10px;
+}
+
+
+
+
+
+
+
